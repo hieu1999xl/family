@@ -7,7 +7,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url":  "https://github.com/nafiesl/backup-manager-laravel"
+            "url":  "https://github.com/hieu1999xl/family"
         }
     ],
     "require": {
