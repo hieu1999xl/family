@@ -1,0 +1,42 @@
+<?php
+
+return [
+    // Labels
+    'my_profile'        => 'Hồ sơ của tôi',
+    'search'            => 'Tìm kiếm',
+    'unknown'           => 'Không tìm thấy',
+    'male'              => 'Nam',
+    'female'            => 'Nữ',
+    'male_code'         => 'Nam',
+    'female_code'       => 'Nu',
+    'family_chart'      => 'Sơ đồ gia đình',
+    'family_tree'       => 'Cây phả hệ',
+    'child_count'       => 'Số con',
+    'grand_child_count' => 'Tổng số con',
+    'user_found'        => 'User  : <strong>:total Orang</strong> không tìm thấy: <strong>:keyword</strong>',
+    'search_your_family' => 'Tìm kiếm gia đình bạn',
+    'search_your_family_placeholder' => 'Tìm kiếm gia đình bạn',
+    'example'           => 'Ví dụ:',
+    'address'           => 'Địa chỉ',
+    'contact'           => 'Liên hệ',
+    'city'              => 'Thành phố',
+    'phone'             => 'Số điện thoại',
+    'login_account'     => 'Đăng nhập',
+    'childs_were_not_recorded' => 'Không được ghi lại',
+
+    // Actions
+    'edit'              => 'Edit',
+    'update'            => 'Update',
+    'show_profile'      => 'Hiện hồ sơ',
+    'show_family_chart' => 'Đồ thị gia đình',
+    'show_family_tree'  => 'Cây phả hệ',
+    'show_marriages'    => 'Hôn nhân',
+    'enter_new_name'    => 'Nhập tên mới',
+    'select_from_existing_males'   => 'Chọn những người đàn ông hiện có',
+    'select_from_existing_females' => 'Chọn những người phụ nữ hiện có',
+    'select_from_existing_couples' => 'Chọn những cặp đôi hiện có',
+    'restore'           => 'Restore',
+    'download'          => 'Download',
+    'delete'            => 'Xóa',
+    'cancel'            => 'Cancel',
+];
