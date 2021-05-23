@@ -11,6 +11,7 @@ return [
     'grand_childs' => 'Tổng số con',
     'siblings'     => 'Anh chị em ruột',
     'dead'         => 'Chết',
+    'death'        => 'Ngày mất',
     'child_name'   => 'Tên con',
     'child_gender' => 'Giớ tính con',
     'grand_mother' => 'Bà',
@@ -49,6 +50,7 @@ return [
     'city'     => 'Thành phố',
     'phone'    => 'Số điện thoại.',
     'manager'  => 'Quản lí',
+    'cemetery_location' => 'Vị trí',
 
     // Photo
     'reupload_photo' => 'Thêm ảnh',

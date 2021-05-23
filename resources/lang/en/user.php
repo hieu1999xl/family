@@ -11,6 +11,7 @@ return [
     'grand_childs' => 'Grand Childs',
     'siblings'     => 'Siblings',
     'dead'         => 'Dead',
+    'death'        => 'Death',
     'child_name'   => 'Child Name',
     'child_gender' => 'Child Gender',
     'grand_mother' => 'Grand Mother',
@@ -49,6 +50,7 @@ return [
     'city'     => 'City',
     'phone'    => 'Phone',
     'manager'  => 'Manager',
+    'cemetery_location' => 'Cemetary Location',
 
     // Photo
     'reupload_photo' => 'Re-upload Photo',

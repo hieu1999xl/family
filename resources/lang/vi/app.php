@@ -39,4 +39,6 @@ return [
     'download'          => 'Download',
     'delete'            => 'Xóa',
     'cancel'            => 'Cancel',
+    'open_in_google_map' => 'Mở với google map',
+    'data_not_available' => 'Dữ liệu không hợp lệ',
 ];
